@@ -58,6 +58,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributors
 
-- [Your Name](https://github.com/your_username)
+- [Juhi Rastogi](https://github.com/juhi048)
 
 
