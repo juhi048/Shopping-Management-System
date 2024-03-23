@@ -19,8 +19,45 @@ This is a simple C++ program for managing a shopping system. It allows users to 
 ## Installation
 
 1. **Clone the Repository**:
-   **git clone https://github.com/your_username/shopping-management.git**
+   git clone https://github.com/your_username/shopping-management.git
 
 
-3. **Compile the Program**:
-   **g++ shopping_management.cpp -o shopping_management**
+2. **Compile the Program**:
+   g++ shopping_management.cpp -o shopping_management
+
+   
+3. **Run the Program**:
+   ./shopping_management
+
+   
+## Usage
+
+Upon execution, the program displays a main menu with options to login as an Administrator, Buyer, or Exit. Follow the on-screen instructions to perform desired operations.
+
+## Contributing
+
+Contributions are welcome! Here's how you can contribute to this project:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your_feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/your_feature`).
+6. Create a new Pull Request.
+
+## Notes
+
+- The program uses basic error handling and input validation.
+- File operations like reading, writing, appending, deleting, and renaming files are utilized for data management.
+- The code is structured into a class-based approach for better organization.
+- **Caution**: This program utilizes the `goto` statement, which is generally discouraged due to its potential for creating complex and hard-to-follow control flow.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contributors
+
+- [Your Name](https://github.com/your_username)
+
+
