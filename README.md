@@ -1,8 +1,8 @@
-## SuperMarket-Management-System
+# SuperMarket-Management-System
 
 This is a simple C++ program for managing a shopping system. It allows users to perform various operations such as adding, updating, and deleting products, as well as generating receipts for buyers.
 
-# Features
+## Features
 Administrator Functions:
 
 Add new products to the database.
