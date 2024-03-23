@@ -19,7 +19,8 @@ This is a simple C++ program for managing a shopping system. It allows users to 
 ## Installation
 
 1. **Clone the Repository**:
-   git clone https://github.com/your_username/shopping-management.git
+   **git clone https://github.com/your_username/shopping-management.git**
 
 
 3. **Compile the Program**:
+   **g++ shopping_management.cpp -o shopping_management**
