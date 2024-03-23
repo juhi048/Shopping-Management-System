@@ -3,19 +3,24 @@
 This is a simple C++ program for managing a shopping system. It allows users to perform various operations such as adding, updating, and deleting products, as well as generating receipts for buyers.
 
 ## Features
-Administrator Functions:
 
-Add new products to the database.
-Modify existing product details.
-Delete products from the database.
-Buyer Functions:
 
-Buy products and generate receipts.
-Data Persistence:
+1. Administrator Functions:
 
-Products are stored in a text file named "database.txt".
-Modifications to the database are made directly to this file.
-Usage
+a) Add new products to the database.
+b) Modify existing product details.
+c) Delete products from the database.
+
+2. Buyer Functions:
+
+a) Buy products and generate receipts.
+
+3. Data Persistence:
+
+a) Products are stored in a text file named "database.txt".
+b) Modifications to the database are made directly to this file.
+
+## Usage
 Compilation: Compile the program using a C++ compiler. For example:
 
 Copy code
